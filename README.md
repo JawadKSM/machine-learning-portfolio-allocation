@@ -34,7 +34,7 @@ The project is deployed as a **Shiny web dashboard** where the user can:
 
 ## 📸 Screenshot
 
-![Dashboard screenshot](screenshot.png)
+![Dashboard screenshot](Dashboard_screen.png)
 
 ## 🖥️ Running the App Locally
 
