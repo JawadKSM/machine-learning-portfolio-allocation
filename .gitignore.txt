@@ -1,0 +1,20 @@
+cat > .gitignore << "EOF"
+# R stuff
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rprofile
+.Renviron
+
+# renv cache (gros et inutile en repo)
+renv/library/
+renv/staging/
+
+# OS/editor
+.DS_Store
+*.swp
+
+# Données volumineuses/sensibles (ajuste selon ton cas)
+# data/raw/
+EOF

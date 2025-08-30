@@ -1,0 +1,12 @@
+name: Machine_Learning_Project
+title: Machine_Learning_Project
+username: jawad-kassimi
+account: jawad-kassimi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14825573
+bundleId: 10356208
+url: https://jawad-kassimi.shinyapps.io/Machine_Learning_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
