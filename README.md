@@ -32,6 +32,10 @@ The project is deployed as a **Shiny web dashboard** where the user can:
 👉 https://jawad-kassimi.shinyapps.io/Machine_Learning_Project/
 ---
 
+## 📸 Screenshot
+
+![Dashboard screenshot](screenshot.png)
+
 ## 🖥️ Running the App Locally
 
 Clone the repository and open the project in RStudio, or run directly in R:
